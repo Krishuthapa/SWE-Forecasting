@@ -1,0 +1,115 @@
+Epoch Number: 1 => Batch number :100 , loss value : 56572.73828125 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :200 , loss value : 13535.826171875 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :300 , loss value : 3092.415771484375 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :400 , loss value : 19081.560546875 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :500 , loss value : 10690.9619140625 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :600 , loss value : 3378.060546875 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :700 , loss value : 6210.54150390625 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :800 , loss value : 2023.469970703125 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :900 , loss value : 1494.115478515625 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :1000 , loss value : 1166.778564453125 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :1100 , loss value : 5228.8017578125 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :1200 , loss value : 2796.591064453125 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :1300 , loss value : 1123.5181884765625 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :1400 , loss value : 2266.99951171875 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :1500 , loss value : 1506.802001953125 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :1600 , loss value : 1623.1839599609375 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :1700 , loss value : 1110.960205078125 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :1800 , loss value : 2072.52587890625 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :1900 , loss value : 1043.248291015625 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :2000 , loss value : 1347.342529296875 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :2100 , loss value : 1028.3587646484375 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :2200 , loss value : 3845.56982421875 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :2300 , loss value : 1466.5587158203125 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :2400 , loss value : 828.0574951171875 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :2500 , loss value : 2456.102294921875 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :2600 , loss value : 272.2760009765625 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :2700 , loss value : 1894.134521484375 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :2800 , loss value : 880.7293090820312 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :2900 , loss value : 795.3948364257812 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :3000 , loss value : 1023.0382690429688 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :3100 , loss value : 344.8447265625 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :3200 , loss value : 1046.923095703125 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :3300 , loss value : 553.7982177734375 
+Length:512
+=================================================
+Epoch Number: 1 => Batch number :3400 , loss value : 1637.134765625 
+Length:512
+=================================================
+Epoch Number: 1 => Avg loss value : 4647.436463060393 
+Epoch Number: 2 => Batch number :100 , loss value : 903.05078125 
+Length:512
+=================================================
+Epoch Number: 2 => Batch number :200 , loss value : 2823.45654296875 
+Length:512
+=================================================
+Epoch Number: 2 => Batch number :300 , loss value : 843.8010864257812 
+Length:512
+=================================================
+Epoch Number: 2 => Batch number :400 , loss value : 2487.9150390625 
+Length:512
+=================================================
