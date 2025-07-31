@@ -1,6 +1,8 @@
 # SWE_Forecasting
 ForeSWE: Forecasting Snow Water Equivalent with a Spatio-Temporal Attention-based Model
 
+### Training Years: (1991 - 2013) and Testing Years: (2014-2018)
+
 ### Packages used.
 Model implementation used Pytorch(v2.0.1) (LSTM and Attention models), GPyTorch (v1.12) (Gaussian process) packages. Data processing and visualization used multiple Python packages. We assume conda has been installed on the device running this code.
 
@@ -42,3 +44,8 @@ After training the spatio-temporal attention model, the representations from the
 ```
 bash weekly_foreswe_gp_run.sh --base_url /path/to/SWE-Forecasting --env_name <your_choice_conda_att_env_name>
 ```
+
+
+### Output folder for predicted files (/outputs/predict/)
+### Output folder for actual files (/outputs/actual/)
+
