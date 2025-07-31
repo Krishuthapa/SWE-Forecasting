@@ -41,7 +41,7 @@ seed_value = 50
 torch.manual_seed(seed_value)
 
 # --------------------------------------All Files Import-----------------------------------------
-baseUrl = '</path/to/data_and_result_parent_dir>'
+baseUrl = os.getenv("BASE_URL", "")
 
 training_inputs = torch.load('{}/outputs/forecasting_modified_daily_att_inputs_for_gp_act.pt'.format(baseUrl))
 training_outputs = torch.load('{}/outputs/forecasting_modified_daily_att_outputs_for_gp_act.pt'.format(baseUrl))

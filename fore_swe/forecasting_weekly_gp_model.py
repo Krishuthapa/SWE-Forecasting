@@ -45,7 +45,7 @@ torch.cuda.manual_seed(42)
 torch.cuda.manual_seed_all(42)  # For multiple GPUs
 
 # --------------------------------------All Files Import-----------------------------------------
-baseUrl = '</path/to/data_and_result_parent_dir>'
+baseUrl = os.getenv("BASE_URL", "")
 
 training_inputs = torch.load('{}/outputs/forecasting_modified_weekly_att_inputs_for_gp_act.pt'.format(baseUrl))
 training_outputs = torch.load('{}/outputs/forecasting_modified_weekly_att_outputs_for_gp_act.pt'.format(baseUrl))
