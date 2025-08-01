@@ -1,7 +1,7 @@
 # SWE_Forecasting
 ForeSWE: Forecasting Snow Water Equivalent with a Spatio-Temporal Attention-based Model
 
-### Training Years: (1991 - 2013) and Testing Years: (2014-2018)
+### Training Water Years: (1991 - 2014) and Testing Water Years: (2015-2019)
 
 ### Packages used.
 Model implementation used Pytorch(v2.0.1) (LSTM and Attention models), GPyTorch (v1.12) (Gaussian process) packages. Data processing and visualization used multiple Python packages. We assume conda has been installed on the device running this code.

@@ -35,8 +35,8 @@ device = torch.device(dev)
 baseUrl = os.getenv("BASE_URL", "")
 
 # Specify output file paths
-output_1 = '{}/forecasting/forecasting_modified_weekly_att_tr_act_loss.txt'.format(baseUrl)
-output_2 = '{}/forecasting/forecasting_modified_weekly_att_ts_act_loss.txt'.format(baseUrl)
+output_1 = '{}/outputs/forecasting_modified_weekly_att_tr_act_loss.txt'.format(baseUrl)
+output_2 = '{}/outputs/forecasting_modified_weekly_att_ts_act_loss.txt'.format(baseUrl)
 
 # Config
 forecasting_window = 4
