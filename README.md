@@ -47,5 +47,8 @@ bash weekly_foreswe_gp_run.sh --base_url /path/to/SWE-Forecasting --env_name <yo
 
 
 ### Output folder for predicted files (/outputs/predict/)
+All the prediced SWE values are stored as .pkl files and can be found here corresponding to a model.
+
 ### Output folder for actual files (/outputs/actual/)
+All the actual SWE values are stored as .pkl files and can be found here corresponding to a model.
 
