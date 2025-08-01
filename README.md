@@ -1,4 +1,4 @@
-# SWE_Forecasting
+# SWE-Forecasting
 ForeSWE: Forecasting Snow Water Equivalent with a Spatio-Temporal Attention-based Model
 
 ### Training Water Years: (1991 - 2014) and Testing Water Years: (2015-2019)
