@@ -1,12 +1,14 @@
-# SWE-Forecasting
-ForeSWE: Forecasting Snow Water Equivalent with a Spatio-Temporal Attention-based Model
+# Attention-based Models for Snow-Water Equivalent Prediction
+## Krishu K Thapa, Supriya Savalkar, Bhupinderjeet Singh, Trong Nghia Hoang, Kirti Rajagopalan, Ananth Kalyanaraman
+### Washington State University, Pullman, WA
 
-### Training Water Years: (1991 - 2014) and Testing Water Years: (2015-2019)
 
-### Packages used.
+#### Training Water Years: (1991 - 2014) and Testing Water Years: (2015-2019)
+
+#### Packages used.
 Model implementation used Pytorch(v2.0.1) (LSTM and Attention models), GPyTorch (v1.12) (Gaussian process) packages. Data processing and visualization used multiple Python packages. We assume conda has been installed on the device running this code.
 
-### Running Raw-GP model (after getting inside raw-gp folder)
+#### Running Raw-GP model (after getting inside raw-gp folder)
 
 #### For daily forecasting:
 ```
@@ -51,4 +53,12 @@ All the prediced SWE values are stored as .pkl files and can be found here corre
 
 ### Output folder for actual files (/outputs/actual/)
 All the actual SWE values are stored as .pkl files and can be found here corresponding to a model.
+
+## Citation
+
+If you use our idea in your research, please cite:
+
+Thapa, Krishu & Savalkar, Supriya & Singh, Bhupinderjeet & Trong Nghia Hoang & Rajagopalan, Kirti & Kalyanaraman, Ananth. (2026). ForeSWE: Forecasting Snow-Water Equivalent with an Uncertainty-Aware
+Attention Model. Proceedings of the 40th AAAI Conference on Artificial Intelligence. arXiV: https://arxiv.org/pdf/2511.08856v1
+
 
