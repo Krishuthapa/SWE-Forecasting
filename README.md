@@ -58,7 +58,6 @@ All the actual SWE values are stored as .pkl files and can be found here corresp
 
 If you use our idea in your research, please cite:
 
-Thapa, Krishu & Savalkar, Supriya & Singh, Bhupinderjeet & Trong Nghia Hoang & Rajagopalan, Kirti & Kalyanaraman, Ananth. (2026). ForeSWE: Forecasting Snow-Water Equivalent with an Uncertainty-Aware
-Attention Model. Proceedings of the 40th AAAI Conference on Artificial Intelligence. arXiV: https://arxiv.org/pdf/2511.08856v1
+Thapa, Krishu K., et al. "ForeSWE: Forecasting Snow-Water Equivalent with an Uncertainty-Aware Attention Model." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 40. No. 46. 2026.
 
 
